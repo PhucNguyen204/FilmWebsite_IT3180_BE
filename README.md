@@ -3,7 +3,9 @@
 ## Capstone Project of **Introduction to Software Engineering** - Group 21
 
 ---
-### This project use Java and MySQL
+### INTRODUCTION
+#### This project use Java and MySQL for backend
+---
 ### 🛠️ **Setting Up XAMPP on Port 3306**
 
 #### If **Port 3306** is **blocked**, follow these steps:
@@ -32,8 +34,8 @@
 ---
 ##### 5. Add database NewDatabase.sql 
 ### 📸 **Screenshot**
-<img src="https://github.com/khnhk0ogei04/FilmWebsite_IT3180_BE/blob/main/BlockedPort.png" alt="Blocked Port Screenshot" width="600">
-
+#### I. Fix MySQL Error
+<img src="https://github.com/khnhk0ogei04/FilmWebsite_IT3180_BE/blob/main/1.BlockedPort.png" alt="Blocked Port Screenshot" width="600">
 ---
 
 #### **Notes:**
