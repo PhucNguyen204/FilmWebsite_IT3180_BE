@@ -7,6 +7,17 @@
 #### This project use Java and MySQL for backend
 ---
 ### 🛠️ **Setting Up XAMPP on Port 3306**
+<code style="color: aqua">**Running from scratch**:</code>
+- Setup your user information
+- Setup database: **MySQL** with settings: 
+    ```
+    Display name: MySQL
+    Host: localhost
+    Port: 3306
+    Database name: web_film_update
+    Username: root
+    Password: 
+    ```
 
 #### If **Port 3306** is **blocked**, follow these steps:
 
